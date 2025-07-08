@@ -1,4 +1,4 @@
-# Chatbot_SQL
+# SQL Chatbot for Music Store using LangChain + Gemini + Streamlit
 
 # 🎵 SQL Chatbot for Music Store using LangChain + Gemini + Streamlit
 
