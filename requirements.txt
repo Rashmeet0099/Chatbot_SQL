@@ -1,0 +1,14 @@
+langchain>=0.2.0
+langchain-community>=0.0.34
+langchain-google-genai
+python-dotenv
+streamlit
+python-dotenv
+langchain>=0.2.0
+langchain-community>=0.0.34
+langchain-google-genai
+langchain>=0.2.0
+langchain-community>=0.0.34
+langchain-google-genai
+python-dotenv
+streamlit
